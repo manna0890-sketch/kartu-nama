@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "omc": {
+      "source": { "source": "github", "repo": "Yeachan-Heo/oh-my-claudecode" }
+    },
+    "claude-plugins-official": {
+      "source": { "source": "github", "repo": "anthropics/claude-plugins-official" }
+    }
+  },
+  "enabledPlugins": {
+    "oh-my-claudecode@omc": true,
+    "chrome-devtools-mcp@claude-plugins-official": true,
+    "vercel@claude-plugins-official": true
+  }
+}
